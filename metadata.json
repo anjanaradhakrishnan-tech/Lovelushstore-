@@ -1,0 +1,6 @@
+{
+  "name": "LoveLush Store | Trendy Fashion & Creator Storefront",
+  "description": "Boutique fashion storefront for lovelushstore featuring viral reels styling, automated Instagram comment links, creator order & inventory dashboard, and sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
